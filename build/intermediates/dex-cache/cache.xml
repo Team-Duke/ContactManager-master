@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pc world\Documents\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\pc world\AndroidStudioProjects\ContactManager-master\ContactManager\build\intermediates\pre-dexed\debug\support-v4-19.0.1-81f1d6ad645de3deb792c92122c03d5c04c0e24c.jar" />
+    </item>
+    <item
+        jar="C:\Users\pc world\Documents\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\pc world\AndroidStudioProjects\ContactManager-master\ContactManager\build\intermediates\pre-dexed\debug\support-v4-19.0.1-81f1d6ad645de3deb792c92122c03d5c04c0e24c.jar" />
+    </item>
+
+</items>
